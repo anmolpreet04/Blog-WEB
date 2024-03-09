@@ -8,7 +8,7 @@ const AboutUs = () => {
       <img
         unoptimized
         // loader={grpahCMSImageLoader}
-        alt={'test'}
+        // alt={'test'}
         height="100%"
         width="100%"
         className="align-middle rounded-full"
